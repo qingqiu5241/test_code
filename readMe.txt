@@ -1,0 +1,1 @@
+python D:\RustroverProjects\new_code_proxy\main.py D:\RustroverProjects\new_code_proxy\proxy\main_proxy.txt D:\RustroverProjects\new_code_proxy\proxy\second_proxy.txt tls=true
