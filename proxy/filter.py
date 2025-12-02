@@ -30,7 +30,7 @@ print("is sys proxy", is_sysproxy)
 is_tls = check_tls(sys.argv)
 print("is tls", is_tls)
 
-bb = 88
+bb = 77
 
 
 def configure(updated):
